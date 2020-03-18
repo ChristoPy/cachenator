@@ -1,0 +1,19 @@
+{
+  "name": "cachenator",
+  "version": "1.0.0",
+  "description": "Store data in key value with configurable expiry time.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "cachenator",
+    "key value",
+    "dictionary",
+    "cache",
+    "in memory",
+    "database"
+  ],
+  "author": "Christopher Ribeiro <christo_campiglia@hotmail.com>",
+  "license": "MIT"
+}
